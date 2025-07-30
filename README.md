@@ -1,2 +1,2 @@
 # Masi-Kha-Tcha-Machine-Learning-Driven-Nutritional-Analysis-of-Matcha-Products
-Data-driven analysis of 20+ matcha brands assessing nutritional content like fiber, protein, and antioxidants. Features include statistical modeling, machine learning prediction of antioxidant levels, and interactive visualizations with Seaborn, Matplotlib, and Plotly. Offers insights for health-conscious consumers and researchers.
+Data-driven analysis of 10+ matcha brands assessing nutritional content like fiber, protein, and antioxidants. Features include statistical modeling, machine learning prediction of antioxidant levels, and interactive visualizations with Seaborn, Matplotlib, and Plotly. Offers insights for health-conscious consumers and researchers.

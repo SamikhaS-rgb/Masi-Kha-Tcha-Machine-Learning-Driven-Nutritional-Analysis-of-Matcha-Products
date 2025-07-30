@@ -1,0 +1,25 @@
+
+MATCHA NUTRITIONAL ANALYSIS REPORT
+==================================
+
+1. High-Fiber Brands (25% above average):
+Average Fiber Content: 2.90g
+High-Fiber Threshold: 3.62g
+
+Brands exceeding threshold:
+                        Brand  Fiber_g
+          MudWTR Matcha Blend        6
+Generic Matcha (J Food Study)       12
+
+2. Antioxidant Prediction Model:
+- R-squared: 0.0838
+- Mean Squared Error: 9.2217
+- Key Predictive Features: 
+  * Fiber (Coeff: -0.1522)
+  * Protein (Coeff: 0.4743)
+  * Nutrient Score (Coeff: 0.1209)
+
+3. Recommendations:
+- Top performers in fiber: MudWTR Matcha Blend, Generic Matcha (J Food Study)
+- Ceremonial grade matcha shows higher antioxidant potential
+- Brands with balanced fiber-protein ratios demonstrate better antioxidant profiles
